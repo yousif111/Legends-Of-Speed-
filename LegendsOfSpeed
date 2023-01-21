@@ -1,5 +1,5 @@
 local VLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/yousif111/UINew/main/UII"))()
-local Win = VLib:Window("Old | NoMoreLife#6829", "Speed of Legends")
+local Win = VLib:Window("NoMoreLife#6829", "Speed of Legends")
 local Main = Win:Tab("Main")
 local Autofarm = Win:Tab("Autofarm")
 local Credits = Win:Tab("Credits")
